@@ -39,9 +39,34 @@ Video :point_down: <br/>
 
 ### Istio Service Mesh Videos
 
-1. [Istio Service Mesh Explained](https://www.youtube.com/watch?v=6zDrLvpfCK4)
-2. [Istio & Service Mesh - simply explained in 15 mins](https://www.youtube.com/watch?v=16fgzklcF7Y)
-3. [Istio Setup in Kubernetes | Step by Step Guide to install Istio Service Mesh](https://www.youtube.com/watch?v=voAyroDb6xk)
-4. [What is Istio?](https://www.youtube.com/watch?v=1iyFq2VaL5Y)
+### Istio Service Mesh Videos
+
+<div>
+  <a href="https://www.youtube.com/watch?v=6zDrLvpfCK4">
+    <img src="https://img.youtube.com/vi/6zDrLvpfCK4/maxresdefault.jpg" alt="Istio Service Mesh Explained">
+  </a>
+  <p><a href="https://www.youtube.com/watch?v=6zDrLvpfCK4">Istio Service Mesh Explained</a></p>
+</div>
+
+<div>
+  <a href="https://www.youtube.com/watch?v=16fgzklcF7Y">
+    <img src="https://img.youtube.com/vi/16fgzklcF7Y/maxresdefault.jpg" alt="Istio & Service Mesh - simply explained in 15 mins">
+  </a>
+  <p><a href="https://www.youtube.com/watch?v=16fgzklcF7Y">Istio & Service Mesh - simply explained in 15 mins</a></p>
+</div>
+
+<div>
+  <a href="https://www.youtube.com/watch?v=voAyroDb6xk">
+    <img src="https://img.youtube.com/vi/voAyroDb6xk/maxresdefault.jpg" alt="Istio Setup in Kubernetes | Step by Step Guide to install Istio Service Mesh">
+  </a>
+  <p><a href="https://www.youtube.com/watch?v=voAyroDb6xk">Istio Setup in Kubernetes | Step by Step Guide to install Istio Service Mesh</a></p>
+</div>
+
+<div>
+  <a href="https://www.youtube.com/watch?v=1iyFq2VaL5Y">
+    <img src="https://img.youtube.com/vi/1iyFq2VaL5Y/maxresdefault.jpg" alt="What is Istio?">
+  </a>
+  <p><a href="https://www.youtube.com/watch?v=1iyFq2VaL5Y">What is Istio?</a></p>
+</div>
 
 Feel free to check out these videos to learn more about Istio and Service Mesh.
